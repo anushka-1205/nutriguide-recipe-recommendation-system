@@ -67,7 +67,7 @@ To run the project:
 
 - Clone the repository to your local device using:
   ```bash
-  git clone https://github.com/your-username/NutriGuide.git
+  git clone https://github.com/anushka-1205/nutriguide-recipe-recommendation-system.git
   cd NutriGuide
   ```
   
