@@ -68,7 +68,7 @@ To run the project:
 - Clone the repository to your local device using:
   ```bash
   git clone https://github.com/anushka-1205/nutriguide-recipe-recommendation-system.git
-  cd NutriGuide
+  cd nutriguide-recipe-recommendation-system
   ```
   
 - Open the `jupyternotebook.ipynb` notebook directly in **Google Colab** or run it locally in a Jupyter environment. `pythonfile.py` has been added as a reference and can also be run on a local machine.
